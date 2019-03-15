@@ -1,6 +1,6 @@
 package br.com.dev.resource.enumerator
 
-enum class Cargo {
+enum class Role {
     DESENVOLVEDOR,
     DBA,
     TESTADOR
