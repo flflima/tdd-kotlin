@@ -19,6 +19,6 @@ class SalaryCalculator {
                 return employee.salary * 0.9
             }
         }
-        return 0.0
+        return employee.salary
     }
 }
